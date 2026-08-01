@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg">
 </p>
 # 👋 Hi, I'm Maruti Haval
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450">
+<img src="https://user-images.githubusercontent.com/74038190/216656965-8b9f2c7f-3e39-4b61-b43c-2cbf2b48b447.gif" width="400">
 </p>
 ### 🚀 Computer Science Engineer | Software Developer | AI/ML Enthusiast
 
