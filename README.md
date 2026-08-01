@@ -2,12 +2,14 @@
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg">
 </p>
 # 👋 Hi, I'm Maruti Haval
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216656965-8b9f2c7f-3e39-4b61-b43c-2cbf2b48b447.gif" width="400">
-</p>
+
 ### 🚀 Computer Science Engineer | Software Developer | AI/ML Enthusiast
 
 I'm passionate about building AI-powered applications and solving real-world problems through software engineering, machine learning, and data-driven solutions.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
+</p>
 
 🏆 WiDS Datathon 2025 (81.91% Model Accuracy)
 🥇 1st Place IoT Project Winner
