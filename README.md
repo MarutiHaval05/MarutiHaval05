@@ -1,4 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Maruti%20Haval&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Maruti+Haval;Software+Developer;Java+Developer;AI%2FML+Enthusiast;Full+Stack+Developer" />
+</p>
 # 👋 Hi, I'm Maruti Haval
 
 ### 🚀 Computer Science Engineer | Software Developer | AI/ML Enthusiast
