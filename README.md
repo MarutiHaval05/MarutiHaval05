@@ -1,6 +1,10 @@
-<img src="https://github-readme-stats.vercel.app/api?username=MarutiHaval05&show_icons=true&theme=tokyonight"/>
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 # 👋 Hi, I'm Maruti Haval
-
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450">
+</p>
 ### 🚀 Computer Science Engineer | Software Developer | AI/ML Enthusiast
 
 I'm passionate about building AI-powered applications and solving real-world problems through software engineering, machine learning, and data-driven solutions.
