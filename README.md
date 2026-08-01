@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Maruti+Haval;Software+Developer;Java+Developer;AI%2FML+Enthusiast;Full+Stack+Developer" />
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg">
 </p>
 # 👋 Hi, I'm Maruti Haval
 
