@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=MarutiHaval05&show_icons=true&theme=tokyonight"/>
 # 👋 Hi, I'm Maruti Haval
 
 ### 🚀 Computer Science Engineer | Software Developer | AI/ML Enthusiast
