@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Maruti%20Haval&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 # 👋 Hi, I'm Maruti Haval
 
 ### 🚀 Computer Science Engineer | Software Developer | AI/ML Enthusiast
