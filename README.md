@@ -143,7 +143,7 @@ LeetCode , GFG , Striver
 
 200+ Problems Solved
 
-Java
+Java,C
 
 ## 🌐 Connect with Me
 <p align="left">
