@@ -8,7 +8,7 @@
 I'm passionate about building AI-powered applications and solving real-world problems through software engineering, machine learning, and data-driven solutions.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/3o7TKsQ8UQ2J7riG9y/giphy.gif" width="400">
 </p>
 
 🏆 WiDS Datathon 2025 (81.91% Model Accuracy)
